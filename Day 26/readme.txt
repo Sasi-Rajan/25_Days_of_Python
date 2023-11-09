@@ -1,0 +1,1 @@
+# This project contain flashcards to learn Japanese from English
